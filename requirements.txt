@@ -1,3 +1,6 @@
+streamlit
+langchain
+langchain-community
 langchain
 python-dotenv
 langchain-community

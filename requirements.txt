@@ -1,3 +1,6 @@
+langchain<=0.1.20
+langchain-community
+langchain-groq
 streamlit
 langchain
 langchain-community
